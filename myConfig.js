@@ -1,16 +1,13 @@
 let MensajeAd =
-	"​🚨*Promociona lo que desees!*🚨 \n \n" +
-	"	🎁	- Web de afiliados / referidos \n" +
-	"	🤑	- Acortador con AdsTerra \n" +
-	"	📈	- Página con exoclick \n" +
-	"	🗺	- Redirige el tráfico a @otrosCanales o a una página web \n \n" +
-	"['Click Aquí🔥'](https://www.amazon.es)"
-
+	"​🚨More Videos!!🚨 \n \n" +
+	"	😈	- OnlyFans Photos Leaked \n" +
+	"	😈	- OnlyFans Videos Leaked \n" +
+	"	😈	- Patreon Leaked \n" +
+    	"	😈	- Fansly Leaked \n" +
+    
 /*let MensajeAd3 =
-	"​🚨*Promociona lo que desees!*🚨 \n \n"*/
+	"​🚨*More Videos!!*🚨 \n \n"*/
 
-let imagenAd =
-	"https://vilmanunez.com/wp-content/uploads/2018/10/poner-anuncios-publicitarios-gratis.png"
 
 const N_VIDEOS = 10 //MAX 10
 
@@ -21,32 +18,32 @@ const MY_AD = {
 		ctn: MensajeAd,
 		image: imagenAd,
 		link: {
-			text: "Canal vip ❤",
-			url: "https://google.com",
+			text: "😈Site New OnlyFans Photos and Videos Leaked😈",
+			url: "https://thebookcelebporn.com",
 		},
 		linksGroupAd: [
 			[
 				{
-					text: "Web Afiliados / Referidos",
-					url: "https://youtube.com",
+			text: "😈Site New OnlyFans Videos Leaked😈",
+			url: "https://celebjihad.me",
 				},
 			],
 			[
 				{
-					text: "Acortador de enlaces",
-					url: "https://facebook.com",
+			text: "😈Channel OnlyFans Photos and Videos Leaked😈",
+			url: "https://t.me/TheBookCelebPorn",
 				},
 			],
 			[
 				{
-					text: "Web con anuncios",
-					url: "https://stripchat.com",
+			text: "😈Channel OnlyFans Videos Leaked😈",
+			url: "https://t.me/celebjihadoficial",
 				},
 			],
 			[
 				{
-					text: "Promociona otro canal",
-					url: "https://tiktok.com",
+			text: "😈Channel OnlyFans Photos and Videos Leaked😈",
+			url: "https://t.me/TheBookCelebPorn",
 				},
 			],
 		],
