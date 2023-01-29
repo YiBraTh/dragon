@@ -17,7 +17,7 @@ const N_VIDEOS = 10 //MAX 10
 
 const MY_AD = {
 	isActive: true,
-	type: 3, // //defaultAd => 1 //captionAd => 2 //linksGroupAd => 3
+	type: 2, // //defaultAd => 1 //captionAd => 2 //linksGroupAd => 3
 	data: {
 		ctn: MensajeAd,
 		image: imagenAd,
@@ -28,14 +28,14 @@ const MY_AD = {
 		linksGroupAd: [
 			[
 				{
-			text: "😈Site New OnlyFans Videos Leaked😈",
-			url: "https://celebjihad.me",
+			text: "😈Site New OnlyFans Photos and Videos Leaked😈",
+			url: "https://thebookcelebporn.com",
 				},
 			],
 			[
 				{
-			text: "😈Channel OnlyFans Photos and Videos Leaked😈",
-			url: "https://t.me/TheBookCelebPorn",
+			text: "😈Site New OnlyFans Videos Leaked😈",
+			url: "https://celebjihad.me",
 				},
 			],
 			[
