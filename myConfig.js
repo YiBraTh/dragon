@@ -13,7 +13,7 @@ let imagenAd =
 	"https://thebookcelebporn.com/wp-content/uploads/2022/11/cropped-LOGO1.png"
 
 
-const N_VIDEOS = 10 //MAX 10
+const N_VIDEOS = 3 //MAX 10
 
 const MY_AD = {
 	isActive: true,
